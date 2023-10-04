@@ -4,14 +4,13 @@
   </samp>
 
 <h1 align="center" >
-        <samp>&gt; Hey There!, I am
-                <b>Ayoub Belkhadir</b>
+        <samp>&gt; Hey There!, I am Ayoub Belkhadir from Morocco 
         </samp>
 </h1>
 <h2 align="center"> 
   <samp>
     <br>
-    「 Upcoming Software Developer from <b>Morocco</b> 」
+    「 Upcoming Software Developer 」
     <br>
   </samp> 
   <br>
