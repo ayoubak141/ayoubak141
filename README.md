@@ -1,6 +1,6 @@
 <p align= "centre"> 
   <samp>
-   <a><img align="right" src="https://github.com/ayoubak141/ayoubak141/blob/main/img/img.svg" height=65% width=50%></a>
+   <a><img align="right" src="https://github.com/ayoubak141/ayoubak141/blob/main/img/img.svg" height=75% width=50%></a>
   </samp>
 
 <h1 align="center" >
@@ -24,15 +24,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/ayoubak141">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ayoubak141&theme=radical&mode=weekly" alt="Belkhadir's GitHub Streak" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayoubak141&show_icons=true&theme=radical&border=7F3FBF&background=0D1117" alt="Belkhadir's GitHub Contribution"/>
+  <a href="https://github.com/ayoubak141">  
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ayoubak141&theme=radical&mode=weekly" alt="Belkhadir's GitHub Streak" />
+<!--     <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayoubak141&show_icons=true&theme=radical&border=7F3FBF&background=0D1117" alt="Belkhadir's GitHub Contribution"/> -->
+    <img align="left" src="https://raw.githubusercontent.com/ayoubak141/ayoubak141/output/snake.svg" alt="Snake animation" />
+<!--     <br clear="both"> -->
   </a>
 </p>
 <!--   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubak141&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubak141" /> </p> -->
 
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ayoubak141/ayoubak141/output/snake.svg" alt="Snake animation" />
-###
