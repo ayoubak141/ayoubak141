@@ -1,6 +1,6 @@
 <p align= "centre"> 
   <samp>
-   <a><img align="right" src="./img/img.svg" height=65% width=50%></a>
+   <a><img align="right" src="https://github.com/ayoubak141/ayoubak141/blob/main/img/img.svg" height=65% width=50%></a>
   </samp>
 
 <h1 align="center" >
@@ -31,11 +31,3 @@
 </p>
 <!--   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubak141&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubak141" /> </p> -->
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
