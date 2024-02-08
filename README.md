@@ -31,3 +31,8 @@
 </p>
 <!--   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubak141&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubak141" /> </p> -->
 
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ayoubak141/ayoubak141/output/snake.svg" alt="Snake animation" />
+###
