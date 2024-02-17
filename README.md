@@ -7,6 +7,7 @@
         <samp>&gt; Hi 👋, I'm Ayoub belkhadir
         </samp>
 </h1>
+
 <h2 align="center"> 
   <samp>
     <br>
@@ -15,6 +16,14 @@
   </samp> 
   <br>
 </h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ayoubbelkhadir">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+</div>
 
 </p>
 
