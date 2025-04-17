@@ -96,11 +96,11 @@
 <div align="center">
   <!-- Stats cards in a more organized layout -->
   <a href="https://github.com/ayoubak141">
-    <picture>
+    <div>
       <source media="(max-width: 640px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayoubak141&theme=dark&width=300">
       <source media="(min-width: 641px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayoubak141&theme=dark">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubak141&theme=dark" alt="GitHub Streak Stats">
-    </picture>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubak141&theme=dark"   >
+    </div>
   </a>
 </div>
 
