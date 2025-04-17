@@ -2,23 +2,21 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
+      <td width="45%">
         <h1>👋 Hi, I'm Ayoub Belkhadir</h1>
-        <p>💻 Software Engineer | Backend Developer</p>
-        <p>🌐 Member of the <b>42 Network</b> focusing on systems programming and DevOps</p>
         <h2>🚀 About Me</h2>
-        <pre style="background-color: #282c34; color: #abb2bf; border-radius: 8px; overflow: auto;"><code>
-          <span style="color: #c678dd;">const</span> <span style="color: #e06c75;">ayoub</span> <span style="color: #56b6c2;">=</span> <span style="color: #d19a66;">{</span>
-          <span style="color: #e06c75;">currentPosition</span><span style="color: #56b6c2;">:</span> <span style="color: #98c379;">"Back-end Developer at ESCOREVE"</span>,
-          <span style="color: #e06c75;">expertise</span><span style="color: #56b6c2;">:</span> <span style="color: #d19a66;">[</span><span style="color: #98c379;">"TypeScript"</span>, <span style="color: #98c379;">"Go"</span>, <span style="color: #98c379;">"Docker"</span>, <span style="color: #98c379;">"Cloud Technologies"</span><span style="color: #d19a66;">]</span>,
-          <span style="color: #e06c75;">focuses</span><span style="color: #56b6c2;">:</span> <span style="color: #d19a66;">[</span><span style="color: #98c379;">"Web Development"</span>, <span style="color: #98c379;">"AI"</span>, <span style="color: #98c379;">"42 Network Member"</span><span style="color: #d19a66;">]</span>,
-          <span style="color: #e06c75;">lookingToCollaborate</span><span style="color: #56b6c2;">:</span> <span style="color: #d19a66;">[</span><span style="color: #98c379;">"Scalable Backend Systems"</span><span style="color: #d19a66;">]</span>,
-          <span style="color: #e06c75;">skills</span><span style="color: #56b6c2;">:</span> <span style="color: #d19a66;">[</span><span style="color: #98c379;">"API Design"</span>, <span style="color: #98c379;">"Microservices"</span>, <span style="color: #98c379;">"Performance Optimization"</span><span style="color: #d19a66;">]</span>,
-          <span style="color: #e06c75;">location</span><span style="color: #56b6c2;">:</span> <span style="color: #98c379;">"Morocco"</span>,
-          <span style="color: #e06c75;">openTo</span><span style="color: #56b6c2;">:</span> <span style="color: #98c379;">"Remote Opportunities Worldwide"</span>,
-          <span style="color: #e06c75;">contact</span><span style="color: #56b6c2;">:</span> <span style="color: #98c379;">"ayoub.belkhadir.11@gmail.com"</span>,
-          <span style="color: #d19a66;">};</span>
-        </code></pre>
+        <div style="background-color: #21262d; border-left: 4px solid #58a6ff; padding: 15px; border-radius: 6px; margin-bottom: 20px; color: #c9d1d9;">
+          <p><strong>💻 Role:</strong> Software Engineer | Backend Developer</p>
+          <p><strong>🌐 Network:</strong> Member of the <b>42 Network</b> focusing on web Development and AI</p>
+          <p><strong>🏢 Current Position:</strong> Back-end Developer at ESCOREVE</p>
+          <p><strong>💪 Expertise:</strong> TypeScript, Go, Docker, Cloud Technologies</p>
+          <p><strong>🔍 Focus Areas:</strong> Systems Programming, DevOps, 42 Network Member</p>
+          <p><strong>🤝 Looking to Collaborate on:</strong> Scalable Backend Systems, Containerized Applications</p>
+          <p><strong>🛠️ Skills:</strong> API Design, Microservices, Performance Optimization</p>
+          <p><strong>📍 Location:</strong> Morocco</p>
+          <p><strong>🌎 Open To:</strong> Remote Opportunities Worldwide</p>
+          <p><strong>📧 Contact:</strong> ayoub.belkhadir.11@gmail.com</p>
+        </div>
         <h2>📫 Let's Connect!</h2>
         <div style="margin-bottom: 20px;">
           <a href="https://www.linkedin.com/in/ayoubbelkhadir" style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
@@ -27,15 +25,12 @@
           <a href="mailto:ayoub.belkhadir.11@gmail.com" style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
             <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL ME"/>
           </a>
-          <a href="https://github.com/ayoubak141" style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
-            <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB"/>
-          </a>
           <a href="https://ayoubak141.github.io" style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
             <img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="PORTFOLIO"/>
           </a>
         </div>
       </td>
-      <td width="40%">
+      <td width="55%">
         <img src="./img/img.svg" alt="Developer illustration" width="100%">
       </td>
     </tr>
