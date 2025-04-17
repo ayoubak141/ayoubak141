@@ -75,7 +75,6 @@
     <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=white" alt="Neon">
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
     <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="OpenAPI">
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   </p>
 
   <!-- DevOps & Cloud with better organization -->
