@@ -1,114 +1,95 @@
-<!-- Header with improved responsive layout -->
+<!-- Top Intro & Hero -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="45%">
-        <h1>👋 Hi, I'm Ayoub Belkhadir</h1>
-        <h2>🚀 About Me</h2>
-        <div style="background-color: #21262d; border-left: 4px solid #58a6ff; padding: 15px; border-radius: 6px; margin-bottom: 20px; color: #c9d1d9;">
-          <p><strong>💻 Role:</strong> Software Engineer | Backend Developer</p>
-          <p><strong>🌐 Network:</strong> Member of the <b>42 Network</b> focusing on web Development and AI</p>
-          <p><strong>🏢 Current Position:</strong> Back-end Developer at ESCOREVE</p>
-          <p><strong>💪 Expertise:</strong> TypeScript, Go, Docker, Cloud Technologies</p>
-          <p><strong>🔍 Focus Areas:</strong> Systems Programming, DevOps, 42 Network Member</p>
-          <p><strong>🤝 Looking to Collaborate on:</strong> Scalable Backend Systems, Containerized Applications</p>
-          <p><strong>🛠️ Skills:</strong> API Design, Microservices, Performance Optimization</p>
-          <p><strong>📍 Location:</strong> Morocco</p>
-          <p><strong>🌎 Open To:</strong> Remote Opportunities Worldwide</p>
-          <p><strong>📧 Contact:</strong> ayoub.belkhadir.11@gmail.com</p>
-        </div>
-        <h2>📫 Let's Connect!</h2>
-        <div style="margin-bottom: 20px;">
-          <a href="https://www.linkedin.com/in/ayoubbelkhadir" style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
-            <img src="https://img.shields.io/badge/AYOUB%20BELKHADIR-0077B5?style=for-the-badge" alt="AYOUB BELKHADIR"/>
-          </a>
-          <a href="mailto:ayoub.belkhadir.11@gmail.com" style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
-            <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL ME"/>
-          </a>
-          <a href="https://ayoubak141.github.io" style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
-            <img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="PORTFOLIO"/>
-          </a>
-        </div>
-      </td>
-      <td width="55%">
-        <img src="./img/img.svg" alt="Developer illustration" width="100%">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Tech Stack Section with improved responsive design -->
-<h2>💻 Tech Stack</h2>
-
-<div class="tech-stack">
-  <!-- APIs & Services -->
-  <summary><h3>APIs & Services</h3></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/AWS%20Textract-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Textract">
-    <img src="https://img.shields.io/badge/GROP%20API-4285F4?style=for-the-badge&logo=api&logoColor=white" alt="GROP API">
-    <img src="https://img.shields.io/badge/Resend%20API-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend API">
-    <img src="https://img.shields.io/badge/Twilio%20API-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio API">
-  </p>
-
-  <!-- Languages & Frameworks with better spacing -->
-  <summary><h3>Languages & Frameworks</h3></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-    <img src="https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Echo">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22_f39c12_e74c3c&height=180&section=header&text=Ayoub%20Belkhadir&fontSize=60&fontAlignY=35&desc=Backend%20Software%20Developer&descAlignY=65&descAlign=50" alt="Header Banner" width="100%" />
   
-  <!-- Database & Tools with added tools -->
-  <summary><h3>Database & Tools</h3></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=white" alt="Neon">
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
-    <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="OpenAPI">
-  </p>
-
-  <!-- DevOps & Cloud with better organization -->
-  <summary><h3>DevOps & Cloud</h3></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX">
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/R2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="R2">
-    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  </p>
-</div>
-
-<!-- GitHub Stats Section with improved layout and additional metrics -->
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-  <!-- Stats cards in a more organized layout -->
+  <br>
+  
   <a href="https://github.com/ayoubak141">
-    <div>
-      <source media="(max-width: 640px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayoubak141&theme=dark&width=300">
-      <source media="(min-width: 641px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayoubak141&theme=dark">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubak141&theme=dark"   >
-    </div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+Serverless+Expert;Building+scalable+AI-driven+platforms;Python,+FastAPI,+TypeScript,+Go;AWS+%26+Cloudflare+Ecosystem;Member+of+the+42+Network" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Snake animation properly positioned -->
-<div align="center">
+<br>
+
+<!-- About Section -->
+<h2>About Me</h2>
+<p>
+  Hi there! I'm <b>Ayoub</b>, a results-driven <b>Backend Software Developer</b> specializing in architecting high-impact, serverless, and AI-driven solutions. I thrive in fast-paced Agile environments, transforming legacy manual workflows into highly scalable, automated systems.
+</p>
+<p>
+  Previously engineered modern billing, FinOps systems, and Agentic frameworks at <b>ESCODEVE</b>. I am currently an active member of the prestigious <b>42 Network</b> (1337 Coding School) and looking for my next big challenge!
+</p>
+<br>
+<p>
+  <b>Location:</b> Morocco — <i>Open to remote roles worldwide</i><br>
+  <b>Focus Areas:</b> Serverless Architectures, Microservices, Process Automation<br>
+  <b>Collaborate On:</b> Scalable Backend Systems, AI Integrations, Cloudflare/AWS Solutions<br>
+  <b>Reach Me:</b> <a href="mailto:ayoub.belkhadir.11@gmail.com">ayoub.belkhadir.11@gmail.com</a>
+</p>
+
+<br>
+
+<!-- Beautiful Tech Stack -->
+<h2 align="center">Tech Ecosystem</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="60%" align="center" valign="top">
   <br>
-  <img src="https://raw.githubusercontent.com/ayoubak141/ayoubak141/output/snake.svg" alt="Snake animation" width="100%" />
+  <b>Languages & Core</b>
+  <br> <br>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,go,cpp,bash&theme=dark" alt="Languages"/>
+
+  <br><br>
+  <b>Frameworks & API</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,honojs,nodejs,express,react&theme=dark" alt="Frameworks"/>
+  
+  <br><br>
+  <b>Databases & State Management</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,sqlalchemy&theme=dark" alt="Databases"/>
+
+  <br><br>
+  <b>Cloud & Serverless Infrastructure</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,nginx,githubactions,linux&theme=dark" alt="Cloud & DevOps"/>
+</td>
+<td width="40%" align="center" valign="middle">
+  <!-- A stylish illustration placeholder -->
+  <img src="./img/img.svg" alt="Developer illustration" width="300px" style="border-radius: 12px;">
+</td>
+</tr>
+</table>
+
+<br><br>
+
+
+
+<!-- Contributions Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayoubak141/ayoubak141/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayoubak141/ayoubak141/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/ayoubak141/ayoubak141/output/snake.svg" alt="GitHub Contributions Snake animation"/>
+  </picture>
 </div>
 
-<!-- Footer with updated styling -->
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ayoubak141&style=flat-square&color=blue" alt="Profile views"/>
-  <p>Last Updated: April 17, 2025</p>
-</div>
+<br><br>
 
+<!-- Let's Connect Footer -->
+<div align="center">
+  <h2>Let's Connect</h2>
+  <a href="https://www.linkedin.com/in/ayoubbelkhadir">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ayoubak141.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=google-chrome&logoColor=61DAFB" alt="Portfolio" />
+  </a>
+  <a href="mailto:ayoub.belkhadir.11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=ayoubak141&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
