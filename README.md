@@ -43,7 +43,7 @@
   <br><br>
   <b>Frameworks & API</b>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,honojs,nodejs,express,react&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react&theme=dark" alt="Frameworks"/>
   
   <br><br>
   <b>Databases & State Management</b>
@@ -83,7 +83,7 @@
   <a href="https://www.linkedin.com/in/ayoubbelkhadir">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://ayoubak141.github.io">
+  <a href="https://portfolio.ayoubbelkhadir.tech">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=google-chrome&logoColor=61DAFB" alt="Portfolio" />
   </a>
   <a href="mailto:ayoub.belkhadir.11@gmail.com">
